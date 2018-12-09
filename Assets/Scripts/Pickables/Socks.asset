@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966cd9369f574bc488aa9f10a1dc18d4, type: 3}
+  m_Name: Socks
+  m_EditorClassIdentifier: 
+  name: Knitted Socks
+  kanjiName: "\u30CB\u30C3\u30C8\u9774\u4E0B"
+  description: "\u8D64\u3044\u3068\u767D\u3044\u3001\u305D\u306E\u4EBA\u304C\u5927\u597D\u304D\u306A\u8272\u3002\u306A\u3093\u3067\u91D1\u8272\u3058\u3083\u306A\u3044\u306E\uFF1F"
+  artwork: {fileID: 21300000, guid: aa2f7441324807a4b81f10d3f7f6d5ad, type: 3}
+  pixelArts: {fileID: 21300000, guid: 87ec75f799d969a41bad140d27be072f, type: 3}
+  isPicked: 0

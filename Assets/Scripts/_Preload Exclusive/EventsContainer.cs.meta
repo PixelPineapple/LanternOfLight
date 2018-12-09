@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0b8ba21f5d10cab4a9226ab7b8bbafc5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pickingLanternEvent: {fileID: 11400000, guid: 71449049435b88b4b8f59cfc051d3e82,
+      type: 2}
+  - foundPickableEvent: {fileID: 11400000, guid: 18816abf683eb314f99f4a4a20713c9d,
+      type: 2}
+  - humanInteraction: {fileID: 11400000, guid: 7bae5f02476d7084ba0742edcb5234a6, type: 2}
+  - isPlayerControllable: {fileID: 11400000, guid: 84181f742b759cb499b257cffe01898e,
+      type: 2}
+  - hitEvent: {fileID: 11400000, guid: e85790e4837cfbc42a67af08ecf3a71e, type: 2}
+  - updateInventory: {fileID: 11400000, guid: 5531b44b487bd624682071de9625c82b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
